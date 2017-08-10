@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 .header {
@@ -26,4 +27,31 @@ h1 {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
+}
+
+.identify h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.identify p {
+  font-size: 14px;
+}
+
+.execute h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.execute p {
+  font-size: 14px;
+}
+
+.understand h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.understand p {
+  font-size: 14px;
 }
