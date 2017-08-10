@@ -55,3 +55,19 @@ h1 {
 .understand p {
   font-size: 14px;
 }
+
+.banner {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.portfolio h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.portfolio p {
+  font-size: 14px;
+}
