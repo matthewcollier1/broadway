@@ -1,0 +1,22 @@
+
+body {
+  background-color: #d8d3ce;
+
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 1rem;
+}
+
+li {
+  list-style: cjk-ideographic;
+  font-family: "Muli";
+}
+
+a:-webkit-any-link {
+  color: black;
+  cursor: auto;
+  text-decoration: none;
+}
