@@ -130,3 +130,11 @@ git add .
 git add .
 git add .
 git commit
+cd
+ls
+cd PersonalProject
+add .
+git add .
+git push
+git remote add origin https://github.com/winstonfarsoul/personalproject.git
+git push -u origin master
